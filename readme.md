@@ -1,1 +1,1 @@
-tronlink v2签名将用于2021年5月之后的版本
+tronlink v2 signature will be used for releases after May 2021
